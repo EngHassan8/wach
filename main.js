@@ -10,6 +10,6 @@ button1.addEventListener("click",function(){
    box.style.backgroundColor = "yellow"
 })
 
-butto2.addEventListener("click" ,function(){
-    box.style.backgroundColor= "transto"
+button2.addEventListener("click" ,function(){
+    box.style.backgroundColor= "Transparent"
 })
